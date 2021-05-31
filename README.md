@@ -1,4 +1,4 @@
-# Replit-DataBase-Proxy
+# Replit DataBase Proxy (python)
 A proxy that allows you to use the database of another repl.
 
 ## Current Status:
@@ -17,3 +17,5 @@ You can see the progress below:
 2. - [ ] Support for error handling
 
 And there might be a few more things coming I frogot of.
+
+It might also be a [PyPi](https://pypi.org/) Project.
